@@ -21,7 +21,7 @@ University Scholarship Allocation: Design a system that evaluates applicants usi
 11. Display the ineligible students and their reasons.
 12. Stop the program.
 
-## 3. Flowchart Using Mermaid
+## 3. Flowchart
 ```mermaid
 flowchart TD
     A([Start]) --> B[/Input student details/]
